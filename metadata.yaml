@@ -1,0 +1,60 @@
+_repo: The-Shadow-Line--A-Confession_451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "The Shadow-Line is a short novel based at sea by Joseph Conrad; it is\
+  \ one of his later works, being written from February to December 1915. It was first\
+  \ published in 1916 as a serial in New York's Metropolitan Magazine (September—October)\
+  \ in the English Review (September 1916-March 1917) and published in book form in\
+  \ 1917 in the UK (March) and America (April). The novella depicts the development\
+  \ of a young man upon taking a captaincy in the Orient, with the shadow line of\
+  \ the title representing the threshold of this development.\nThe novella is notable\
+  \ for its dual narrative structure. The full, subtitled title of the novel is The\
+  \ Shadow-Line, A Confession, which immediately alerts the reader to the retrospective\
+  \ nature of the novella. The ironic constructions following from the conflict between\
+  \ the 'young' protagonist (who is never named) and the 'old' drive much of the underlying\
+  \ points of the novella, namely the nature of wisdom, experience and maturity. Conrad\
+  \ also extensively uses irony by comparison in the work, with characters such as\
+  \ Captain Giles and the ship's 'factotum' Ransome used to emphasise strengths and\
+  \ weaknesses of the protagonist.\nThe novella has often been cited as a metaphor\
+  \ of the First World War, given its timing and references to a long struggle, the\
+  \ importance of camaraderie, etc. This viewpoint may also be reinforced by the knowledge\
+  \ that Conrad's elder son, Borys, was wounded in the First World War. Others however\
+  \ see the novel as having a strong supernatural influence, referring to various\
+  \ plot-lines in the novella such as the 'ghost' of the previous captain potentially\
+  \ cursing the ship, and the madness of first mate Mr Burns. Conrad himself, however,\
+  \ denied this link in his 'Author's Note' (1920), claiming that although critics\
+  \ had attempted to show this link, \"The world of the living contains enough marvels\
+  \ and mysteries as it is.\"\nAndrzej Wajda has made a 1976 film adaptation of the\
+  \ novel under its Polish title - Smuga cienia.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '451'
+  wikidata: Q1120858
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Shadow Line: A Confession'
+url: http://www.gutenberg.org/ebooks/451
+wikipedia:
+- https://ca.wikipedia.org/wiki/La_l%C3%ADnia_d%27ombra
+- https://en.wikipedia.org/wiki/The_Shadow_Line
+- https://fr.wikipedia.org/wiki/La_Ligne_d%27ombre
+- https://it.wikipedia.org/wiki/La_linea_d%27ombra
