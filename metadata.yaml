@@ -1,5 +1,8 @@
 _repo: The-Shadow-Line--A-Confession_451
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -37,6 +40,8 @@ description: "The Shadow-Line is a short novel based at sea by Joseph Conrad; it
   \ had attempted to show this link, \"The world of the living contains enough marvels\
   \ and mysteries as it is.\"\nAndrzej Wajda has made a 1976 film adaptation of the\
   \ novel under its Polish title - Smuga cienia.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/451#The-Shadow-Line--A-Confession
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
